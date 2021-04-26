@@ -14,7 +14,7 @@ public class MySQLAccess {
 	 private ResultSet resultSet = null;
 	
 	 
-	 final private String host = "hpbsd:3306";
+	 final private String host = "192.168.178.96:3306";
 	 final private String user = "root";
 	 final private String passwd = "d4t3nb4nk";
 	 
